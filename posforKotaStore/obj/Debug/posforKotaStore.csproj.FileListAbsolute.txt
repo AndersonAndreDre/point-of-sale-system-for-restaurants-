@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\bin\Debug\posforKotaStore.exe.config
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\bin\Debug\posforKotaStore.exe
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\bin\Debug\posforKotaStore.pdb
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.Form1.resources
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.exe
+C:\Users\ADMIN\source\repos\posforKotaStore\posforKotaStore\obj\Debug\posforKotaStore.pdb
